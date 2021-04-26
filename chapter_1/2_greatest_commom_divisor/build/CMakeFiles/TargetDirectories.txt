@@ -1,0 +1,3 @@
+/home/tarcis/c++/chapter_1/2_greatest_commom_divisor/build/CMakeFiles/rebuild_cache.dir
+/home/tarcis/c++/chapter_1/2_greatest_commom_divisor/build/CMakeFiles/edit_cache.dir
+/home/tarcis/c++/chapter_1/2_greatest_commom_divisor/build/CMakeFiles/cpp_study.dir

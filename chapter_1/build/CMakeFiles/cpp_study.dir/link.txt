@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/cpp_study.dir/sum_3_5.cpp.o  -o cpp_study 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tarcis/c++/chapter_1/2_greatest_commom_divisor/exec.cpp
+iostream
+-
+sstream
+-
+functions.h
+-
+
+/home/tarcis/c++/chapter_1/functions.h
+iostream
+-
+sstream
+-
+
