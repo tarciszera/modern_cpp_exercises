@@ -9,12 +9,8 @@ int main(int argc, char** argv) {
     std::cin >> in[0];
     std::cin >> in[1];
 
-    auto gcd = [] (auto& imp, int a, int b) -> int {
-        return (b == 0) ? a : (imp(imp, b, a % b));
-    };
-    auto lcm = [=] (const int a,const int b) {
-        auto h = gcd(gcd, a, b);
-        return (a * ( b / h));
+    auto lcm = [=] (const unsigned int a,const unsigned int b) -> unsigned int {
+        return a * ( b / gcd(a, b));
     };
 
     std::stringstream out;
