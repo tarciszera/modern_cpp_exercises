@@ -1,0 +1,3 @@
+/home/tarcis/workspace/c++/chapter_1/7_amicable_numbers_less_than_1000000/build/CMakeFiles/rebuild_cache.dir
+/home/tarcis/workspace/c++/chapter_1/7_amicable_numbers_less_than_1000000/build/CMakeFiles/edit_cache.dir
+/home/tarcis/workspace/c++/chapter_1/7_amicable_numbers_less_than_1000000/build/CMakeFiles/cpp_study.dir

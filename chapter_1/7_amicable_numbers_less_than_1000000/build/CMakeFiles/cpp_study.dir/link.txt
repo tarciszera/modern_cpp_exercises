@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cpp_study.dir/exec.cpp.o  -o cpp_study 
