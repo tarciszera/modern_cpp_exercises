@@ -1,0 +1,3 @@
+/home/tarcis/workspace/c++/chapter_1/8_armstrong_number/build/CMakeFiles/rebuild_cache.dir
+/home/tarcis/workspace/c++/chapter_1/8_armstrong_number/build/CMakeFiles/edit_cache.dir
+/home/tarcis/workspace/c++/chapter_1/8_armstrong_number/build/CMakeFiles/cpp_study.dir
