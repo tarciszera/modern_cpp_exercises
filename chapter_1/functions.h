@@ -62,4 +62,17 @@ inline unsigned int abundance(unsigned int n) {
     return sum - n;
 }
 
+inline std::stringstream primes_factors(unsigned int in) {
+    unsigned int n = in;
+    std::stringstream out;
+    for (int i = 2; i < n; i++) {
+        while ((in % i) == 0) {
+            out << i << " ";
+            in = in / i;
+        }
+        if (in == 1) break;
+    }
+    return out;
+}
+
 #endif

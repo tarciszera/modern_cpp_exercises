@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tarcis/workspace/c++/chapter_1/10_gray_code/exec.cpp
+iostream
+-
+sstream
+-
+bitset
+-
+deque
+-
+math.h
+-
+functions.h
+-
+
+/home/tarcis/workspace/c++/chapter_1/functions.h
+iostream
+-
+sstream
+-
+math.h
+-
+

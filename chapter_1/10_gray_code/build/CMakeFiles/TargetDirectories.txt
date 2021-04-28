@@ -1,0 +1,3 @@
+/home/tarcis/workspace/c++/chapter_1/10_gray_code/build/CMakeFiles/rebuild_cache.dir
+/home/tarcis/workspace/c++/chapter_1/10_gray_code/build/CMakeFiles/edit_cache.dir
+/home/tarcis/workspace/c++/chapter_1/10_gray_code/build/CMakeFiles/cpp_study.dir

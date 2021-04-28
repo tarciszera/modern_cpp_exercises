@@ -1,0 +1,3 @@
+/home/tarcis/workspace/c++/chapter_1/9_prime_factor/build/CMakeFiles/rebuild_cache.dir
+/home/tarcis/workspace/c++/chapter_1/9_prime_factor/build/CMakeFiles/edit_cache.dir
+/home/tarcis/workspace/c++/chapter_1/9_prime_factor/build/CMakeFiles/cpp_study.dir
