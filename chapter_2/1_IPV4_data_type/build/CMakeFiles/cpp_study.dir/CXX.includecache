@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tarcis/workspace/c++/chapter_1/functions.h
+iostream
+-
+sstream
+-
+math.h
+-
+
+/home/tarcis/workspace/c++/chapter_2/1_IPV4_data_type/exec.cpp
+iostream
+-
+sstream
+-
+string
+-
+map
+-
+boost/regex.hpp
+-
+math.h
+-
+functions.h
+-
+

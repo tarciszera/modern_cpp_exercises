@@ -1,0 +1,3 @@
+/home/tarcis/workspace/c++/chapter_2/1_IPV4_data_type/build/CMakeFiles/rebuild_cache.dir
+/home/tarcis/workspace/c++/chapter_2/1_IPV4_data_type/build/CMakeFiles/edit_cache.dir
+/home/tarcis/workspace/c++/chapter_2/1_IPV4_data_type/build/CMakeFiles/cpp_study.dir
