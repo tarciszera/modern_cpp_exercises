@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tarcis/workspace/c++/chapter_1/functions.h
+iostream
+-
+sstream
+-
+math.h
+-
+
+/home/tarcis/workspace/c++/chapter_2/4_min_any_args/exec.cpp
+iostream
+-
+sstream
+-
+string
+-
+math.h
+-
+functions.h
+-
+

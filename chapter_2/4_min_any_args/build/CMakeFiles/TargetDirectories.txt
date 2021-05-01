@@ -1,0 +1,3 @@
+/home/tarcis/workspace/c++/chapter_2/4_min_any_args/build/CMakeFiles/rebuild_cache.dir
+/home/tarcis/workspace/c++/chapter_2/4_min_any_args/build/CMakeFiles/edit_cache.dir
+/home/tarcis/workspace/c++/chapter_2/4_min_any_args/build/CMakeFiles/cpp_study.dir

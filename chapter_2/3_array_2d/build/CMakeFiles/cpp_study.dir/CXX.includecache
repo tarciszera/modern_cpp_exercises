@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tarcis/workspace/c++/chapter_1/functions.h
+iostream
+-
+sstream
+-
+math.h
+-
+
+/home/tarcis/workspace/c++/chapter_2/3_array_2d/exec.cpp
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+math.h
+-
+ipv4.h
+-
+functions.h
+-
+
+/home/tarcis/workspace/c++/chapter_2/ipv4.h
+iostream
+-
+sstream
+-
+array
+-
+
